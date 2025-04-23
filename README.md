@@ -71,9 +71,13 @@ Revenue Forecasting: Businesses can predict revenue based on privious months and
 
 Product Development: Understanding: Understanding user distribution helps in feature prioritization for appp development.
 
-# Conclusion
+## Conclusion
 
 This Tableau dashboard serves as a practical way to understand critical aspects of a music streaming platform . It showcases how data visualization can convert raw data into actionable insights , enabling smarter business decisions. Through clear visual representations, stakeholders can monitor performance , detect trends and align strategies with user behaviour and market demands.
+
+## Output
+
+![Image](https://github.com/user-attachments/assets/df301cb1-b283-485f-9bae-ec0705707ead)
 
 
 
